@@ -2,11 +2,6 @@
 title: "Gene Expression"
 author: "Hendyco Pratama"
 date: "2024-11-18"
-output:
-  html_document: default
-  pdf_document: default
-  md: default
-  
 ---
 
 ```{r setup, include=FALSE}
